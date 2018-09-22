@@ -4,6 +4,7 @@
     <option name="REPORT_VARIABLES" value="true" />
     <option name="REPORT_PARAMETERS" value="true" />
   </inspection_tool>
+  <inspection_tool class="MissingDeprecatedAnnotation" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="MissingOverrideAnnotation" enabled="true" level="ERROR" enabled_by_default="true">
     <option name="ignoreObjectMethods" value="false" />
     <option name="ignoreAnonymousClassMethods" value="false" />
